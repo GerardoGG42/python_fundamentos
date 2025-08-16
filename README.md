@@ -1,3 +1,4 @@
+
 # Python Fundamentos 03
 
 Este proyecto es una introducción práctica a los conceptos básicos de Python, ideal para quienes están comenzando a programar.
@@ -12,6 +13,7 @@ El archivo principal es un Jupyter Notebook (`python01.ipynb`) que contiene ejem
 - **Estructuras de control**: Condicionales (`if`, `elif`, `else`) para ejecutar código según diferentes situaciones.
 - **Listas y tuplas**: Cómo almacenar y manipular colecciones de datos.
 - **Diccionarios**: Guardar información con claves y valores.
+- **Ciclo for**: Ejemplos y explicaciones sobre cómo usar el ciclo `for` para repetir acciones varias veces.
 
 ## Objetivo
 
